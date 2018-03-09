@@ -1,3 +1,3 @@
 # eternal_conflict
 
-#use this to pull and push your work.
+# use this to pull and push your work.
